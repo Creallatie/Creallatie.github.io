@@ -10,12 +10,12 @@
   - **Mimi University - Shidanan Rd. - Dongyuan, China**
 - Site
   - **<https://creallatie.github.io>**
-- [Resume](https://jerryyin777.github.io/pdf/Congrui_Yin_CV.pdf)
-
+- Resume
+- **Updated Soon**
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 15007910956**
+  - **+86 17807030776**
 - WeChat
   - **就像咪咪不会说出她的体重**
 - E-mail:
@@ -27,7 +27,7 @@
 
 <!-- .slide vertical=true -->
 
--None
+- **Updated Soon**
 
 <!-- .slide -->
 
@@ -35,7 +35,7 @@
 
 <!-- .slide -->
 
--None
+- **Updated Soon**
 
 <!-- .slide -->
 
@@ -43,7 +43,7 @@
 
 <!-- .slide -->
 
--None
+- **Updated Soon**
 
 <!-- .slide -->
 
