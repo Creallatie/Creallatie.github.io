@@ -11,7 +11,7 @@
 - Site
   - **<https://creallatie.github.io>**
 - Resume
-**Updated Soon**
+  - **<https://github.com/JerryYin777>**
 <!-- .slide vertical=true -->
 
 - Phone
