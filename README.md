@@ -50,8 +50,8 @@
 ## Toolchains
 
 <!-- .slide vertical=true -->
-- **Python**, Familiar
+- **Python**, Master
 - **Markdown**, Familiar
 - **$\LaTeX$**, Familiar
 - **Git**, Familiar
-- **VSCode**, Familiar
+- **VSCode**, Unfamiliar
