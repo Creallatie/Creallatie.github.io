@@ -46,6 +46,8 @@
 
 -None
 
+<!-- .slide -->
+
 ## Toolchains
 
 <!-- .slide vertical=true -->
