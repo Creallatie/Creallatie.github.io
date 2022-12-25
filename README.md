@@ -1,6 +1,6 @@
 # Creallatie
 
-欢迎访问我的雏鹰坪！下面向你介绍一下我吧\~
+欢迎访问我的雏鹰坪！看在你给我火腿的份上，下面向你介绍一下我吧\~
 
 <!-- .slide -->
 
@@ -11,13 +11,13 @@
 - Site
   - **<https://creallatie.github.io>**
 - Resume
-- **Updated Soon**
+**Updated Soon**
 <!-- .slide vertical=true -->
 
 - Phone
   - **+86 17807030776**
 - WeChat
-  - **就像咪咪不会说出她的体重**
+  - **就像咪咪不会说出她的体重一样**
 - E-mail:
   - **[creallatie@163.com](mailto:creallatie@163.com)**
 
@@ -27,7 +27,7 @@
 
 <!-- .slide vertical=true -->
 
-- **Updated Soon**
+**Updated Soon**
 
 <!-- .slide -->
 
@@ -35,7 +35,7 @@
 
 <!-- .slide -->
 
-- **Updated Soon**
+**Updated Soon**
 
 <!-- .slide -->
 
@@ -43,7 +43,7 @@
 
 <!-- .slide -->
 
-- **Updated Soon**
+**Updated Soon**
 
 <!-- .slide -->
 
