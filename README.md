@@ -1,23 +1,23 @@
 # Creallatie
 
-欢迎访问我的主页！下面向你介绍一下我吧\~
+欢迎访问我的雏鹰坪！下面向你介绍一下我吧\~
 
 <!-- .slide -->
 
 ## Contact
 
 - Address
-  - **Mimi University - 888 Chuyingping East Rd. - Dongyuan, China**
+  - **Mimi University - Shidanan Rd. - Dongyuan, China**
 - Site
   - **<https://creallatie.github.io>**
-- [Resume](https://resume.wu-kan.cn/index.pdf)
+- [Resume](https://jerryyin777.github.io/pdf/Congrui_Yin_CV.pdf)
 
 <!-- .slide vertical=true -->
 
 - Phone
   - **+86 15007910956**
 - WeChat
-  - **Mimi**
+  - **就像咪咪不会说出她的体重**
 - E-mail:
   - **[creallatie@163.com](mailto:creallatie@163.com)**
 
@@ -28,7 +28,6 @@
 <!-- .slide vertical=true -->
 
 -None
-
 
 <!-- .slide -->
 
